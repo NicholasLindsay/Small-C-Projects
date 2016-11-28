@@ -1,6 +1,6 @@
 # FourBanger
 
-FourBanger is a parser for a very simple language. The aim is to get familiar with formal grammers and formal languges. FourBanger simply reads a string and decides whether or not the string is a valid sentance in the language.
+FourBanger is a parser for a very simple language. The aim of the project is to get familiar with formal grammers and formal languges. FourBanger simply reads a string and decides whether or not the string is a valid sentance in the language.
 
 ## Formal Language
 
